@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Nick Lee's galleria extraordinaire",
   "main": "init.js",
+
   "scripts": {
+    "start": "node init.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew Wimley",
