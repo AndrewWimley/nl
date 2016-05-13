@@ -1,0 +1,99 @@
+.nav {
+	background-color: #696969;
+}
+.navbar-brand {
+	color: #f5f5dc;
+}
+.dropdown-toggle {
+	color: #f5f5dc;
+}
+.dropdown-toggle{
+	color: #f5f5dc;
+}
+li {
+	color: #f5f5dc;
+	font-size: 140%;
+}
+a {
+	color: #f5f5dc;
+}
+
+a:hover {
+	border-radius: 15px;
+	color: #696969;
+	background-color: #f5f5dc;
+}
+.nav {
+	border-radius: 8px;
+	font-size: 1.3em;
+}
+.dropdown-menu > li > a {
+	color: #f5f5dc;
+}
+h2 {
+	color: black;
+	margin-bottom: 12px;
+}
+ul .dropdown-menu{
+	background-color: #7e7e7e;
+	color: #f5f5dc;
+	border-radius: 15px;
+}
+.nav .open > a {
+	color: black;
+	background-color: #f5f5dc;
+}
+body {
+	background-image: url("img/marble.jpg");
+    font-family: 'Josefin', serif;
+    
+      
+}
+.centerMe {
+	margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    display: block;
+    border-radius: 25px;
+}
+.plz {
+	width: 100%;
+}
+.nav-container {
+	float:none;
+    margin: 0 auto;
+    display: table;
+    table-layout: fixed;
+}
+.navbar-nav{
+        
+}
+.fotorama__fullscreen-icon {
+	background-color: black;
+	margin : 25px 25px;
+	border-radius: 8px;
+}
+.fotorama__caption__wrap {
+	border-radius: 15px;
+	background-color: #696969;
+	color: #f5f5dc;
+}
+.fotorama__caption {
+	border-radius: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 2.0em;
+	font-weight: 15em;
+}
+.lee {
+
+}
+.statement {
+	font-size: 1.7em;
+	font-weight: 2.0em;
+}
+.social-link {
+	margin: 0 25px;
+}
